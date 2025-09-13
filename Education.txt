@@ -2,6 +2,3 @@ Elementary School: Magallanes Central Elementary School
 Year Graduated: 2014-2015
 High School: Magallanes National High School
 Year Graduated: 2019-2020
-College: Caraga State University Cabadbaran Campus
-Program: BSInfoTech
-Year Level: Third Year
