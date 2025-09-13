@@ -1,16 +1,7 @@
 FirstName: Jason
-Middle Name: Piencenaves>> Profile.txt
-
-echo LastName: Hechanova
-Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves
 Middle Name: Piencenaves
-Middle Name: Piencenaves
-Middle Name: Piencenaves
-Middle Name: Piencenaves
+LastName: Hechanova
 Gender: Male
 Age: 22
+Birthday: 11-19-2002
 Contacts: 09709227782
