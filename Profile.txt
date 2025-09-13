@@ -1,7 +1,6 @@
 First Name: Jason
 Middle Name: Piencenaves
 Last Name: Hechanova
-Middle Name: Piencenaves>> Profile.txt
 Gender: Male
 Age: 22
 Birthday: 11-19-2002
