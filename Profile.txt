@@ -1,15 +1,5 @@
 FirstName: Jason
 Middle Name: Piencenaves>> Profile.txt
-
-echo LastName: Hechanova
-Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves>> Profile.txt
-echo Middle Name: Piencenaves
-Middle Name: Piencenaves
-Middle Name: Piencenaves
-Middle Name: Piencenaves
 Middle Name: Piencenaves
 Gender: Male
 Age: 22
