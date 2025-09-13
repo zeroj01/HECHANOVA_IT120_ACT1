@@ -14,3 +14,9 @@ Middle Name: Piencenaves
 Gender: Male
 Age: 22
 Contacts: 09709227782
+Birth of Place: Cabadbaran Hospital
+Religion: Roman Catholic
+Father’s Name: Hector Hechanova
+Occupation: Company Worker
+Mother’s Name: Rizz Hechanova
+Occupation: House Wife
