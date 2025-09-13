@@ -5,9 +5,3 @@ Gender: Male
 Age: 22
 Birthday: 11-19-2002
 Contacts: 09709227782
-Birth of Place: Cabadbaran Hospital
-Religion: Roman Catholic
-Father’s Name: Hector Hechanova
-Occupation: Company Worker
-Mother’s Name: Rizz Hechanova
-Occupation: House Wife
